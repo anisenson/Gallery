@@ -42,6 +42,18 @@
   }
 /*https://markodenic.com/tools/buttons-generator/*/
 
-.card {
-   border: 2px solid #212529;
+.customborder {
+  border: 2px solid #212529;
 }
+
+
+.card:hover {
+  box-shadow: 15px 15px 15px #212529;
+  border-color: #212529;
+  animation: ease-in-out;
+}
+
+.card{
+  transition: .3s;
+}
+
