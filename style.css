@@ -57,3 +57,10 @@
   transition: .3s;
 }
 
+.card:target {
+  box-shadow: 15px 15px 15px #212529;
+  border-color: #212529;
+  animation: ease-in-out;
+  opacity: 4;
+
+}
