@@ -1,3 +1,19 @@
+.navbar {
+  background-color: #364f6c;
+  color: white;
+
+
+}
+.body { 
+  background-color: #e0e0e0;
+}
+
+.customfooter {
+  background-color: #364f6c;
+  color: white;
+}
+
+
 
 .bg-hero-image {
     background-image: url(https://picsum.photos/1300/500);
