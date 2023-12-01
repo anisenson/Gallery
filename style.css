@@ -4,7 +4,8 @@
 
 
 }
-.body { 
+
+body { 
   background-color: #e0e0e0;
 }
 
@@ -12,7 +13,6 @@
   background-color: #364f6c;
   color: white;
 }
-
 
 
 .bg-hero-image {
@@ -35,8 +35,8 @@
     z-index: 0;
     background: #fff;
     overflow: hidden;
-    border: 2px solid #212529;
-    color: #212529;
+    border: 2px solid #364f6c;
+    color: #364f6c;
     text-decoration: none;
   }
   .custombutton:hover {
@@ -54,18 +54,18 @@
     bottom: 0;
     height: 0;
     width: 100%;
-    background: #212529;
+    background: #364f6c;
   }
 /*https://markodenic.com/tools/buttons-generator/*/
 
 .customborder {
-  border: 2px solid #212529;
+  border: 2px solid #364f6c;
 }
 
 
 .card:hover {
-  box-shadow: 15px 15px 15px #212529;
-  border-color: #212529;
+  box-shadow: 15px 15px 15px #364f6c;
+  border-color: #364f6c;
   animation: ease-in-out;
 }
 
@@ -74,8 +74,8 @@
 }
 
 .card:target {
-  box-shadow: 15px 15px 15px #212529;
-  border-color: #212529;
+  box-shadow: 15px 15px 15px #364f6c;
+  border-color: #364f6c;
   animation: ease-in-out;
   opacity: 4;
 
