@@ -85,3 +85,8 @@ a {
 cursor: pointer;
 
 }
+
+.card-img-top{
+  border-radius: 2%;
+  border: 2px solid #364f6c;
+}
