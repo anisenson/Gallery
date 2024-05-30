@@ -71,6 +71,7 @@ body {
 
 .card{
   transition: .3s;
+
 }
 
 .card:target {
